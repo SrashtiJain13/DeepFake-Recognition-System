@@ -1,0 +1,11 @@
+venv/
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.zip
+*.mp4
+*.pth
+*.h5
+*.jpg
+models/

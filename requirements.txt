@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+opencv-python
+numpy>=1.24,<2.0
+pandas
+scikit-learn
+matplotlib
+streamlit
+facenet-pytorch
+tqdm
+Pillow
